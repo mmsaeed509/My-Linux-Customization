@@ -1,4 +1,4 @@
-# My Linux-disto Customization
+# My Linux-distro Customization
 
 [![Linux](https://img.shields.io/badge/OS-Garuda%20Linux-05122A?style=plastic&logo=Linux&logoColor=blueviolet&color=blueviolet)](https://garudalinux.org/)
 ![Stars](https://img.shields.io/github/stars/mmsaeed509/My-Linux-Customization?color=blueviolet)
