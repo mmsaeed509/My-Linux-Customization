@@ -1,1 +1,1 @@
- 
+# Guide For Conky Customization
