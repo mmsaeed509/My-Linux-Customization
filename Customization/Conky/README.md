@@ -1,4 +1,4 @@
-# Guide For <a href="https://github.com/brndnmtthws/conky"><img width=100 hight=100 src="https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Conky/conky-logotype-horizontal-violet.png"></a> Installation And  Customization
+# Guide For <a href="https://github.com/brndnmtthws/conky"><img width=100 hight=100 src="Images/conky-logotype-horizontal-violet.png"></a> Installation And  Customization
 
 #### Conky Is a System Monitoring tool that Displays Hardware Information(i.g CPU, RAM, SWAP, GPU, SSD usage, etc.. ), can be customized as You like
 
@@ -13,11 +13,11 @@
 sudo yum install -y epel-release
 sudo yum install -y conky
 ```
-To run Conky open up terminal `conky` OR via Application Launcher ![](conky.png)
+To run Conky open up terminal `conky` OR via Application Launcher ![](Images/conky.png)
 
 ### and here's conky 
 
-![](conky_pure.png)
+![](Images/conky_pure.png)
 
 #### Oh, Conky looks so bad! No problem, we will customize it. We make it out of the box.
 
