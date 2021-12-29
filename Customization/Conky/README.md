@@ -18,3 +18,8 @@ To run Conky open up terminal `conky` OR via Application Launcher ![](conky.png)
 ### and here's conky 
 
 ![](conky_pure.png)
+
+#### Oh, Conky looks so bad! No problem, we will customize it. We make it out of the box.
+
+## [Conky Customization](https://wiki.archlinux.org/title/conky)
+#### Here's [Conky Objects](http://conky.sourceforge.net/config_settings.html), we need it for Customization.
