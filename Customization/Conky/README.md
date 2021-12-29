@@ -1,4 +1,4 @@
-# Guide For <a href="https://github.com/brndnmtthws/conky"><img width=100 hight=100 src="https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Conky/conky-logotype-horizontal-violet.png"></a>  Customization
+# Guide For <a href="https://github.com/brndnmtthws/conky"><img width=100 hight=100 src="https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Conky/conky-logotype-horizontal-violet.png"></a> Installation And  Customization
 
 #### Conky Is a System Monitoring tool that Displays Hardware Information(i.g CPU, RAM, SWAP, GPU, SSD usage, etc.. ), can be customized as You like
 
