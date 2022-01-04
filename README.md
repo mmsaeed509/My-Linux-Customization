@@ -10,6 +10,8 @@
 ![code-size](https://img.shields.io/github/languages/code-size/mmsaeed509/My-Linux-Customization?color=blueviolet)
 ![number of languages](https://img.shields.io/github/languages/count/mmsaeed509/My-Linux-Customization?color=blueviolet)
 
+## See My [Setup](https://drive.google.com/drive/folders/1BDddIhEIRHMUQr3ovoWlQE7h5JFj8W26?usp=sharing) Info.
+
 ### here's my Linux-distro Customization guide
 - [conky Customization](https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Conky/README.md).
 - [Terminal Customization](https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Terminal/README.md).
