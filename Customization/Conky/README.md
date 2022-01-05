@@ -63,6 +63,11 @@ let's create desktop entry run this simple script **(I wrote this script for you
 
 or create desktop entry via GUI from *** Menu Editor***
 
+![](GUI-desktop/conky_desktop_1.png)
+
+![](GUI-desktop/conky_desktop_2.png)
+
+
 #
  ## Run Conky on Startup
 
