@@ -54,12 +54,12 @@ this [conky.conf](conkyConfigFiles/conky.conf) is my config file that I'm using 
 ### [Script](Scripts/) I have written these scripts for you so you don't get confused
 to run conky with Customized config file `conky -c conky.conf` .
 
-let's create desktop entry run this simple script **(I wrote this script for you so you don't get confused)** with root permission [createDesktopEntry.sh](https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Conky/Scripts/createDesktopEntry.sh) to create new desktop entry.
+let's create desktop entry run this simple script with root permission [createDesktopEntry.sh](https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Conky/Scripts/createDesktopEntry.sh) to create new desktop entry.
 - download script:-
     ```
     wget https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Conky/Scripts/createDesktopEntry.sh
     ```
-- Run script `sudo ./createDesktopEntry.sh`
+- Run script `sudo chmod +x createDesktopEntry.sh && sudo ./createDesktopEntry.sh`
 
 or create desktop entry via GUI from *** Menu Editor***
 
