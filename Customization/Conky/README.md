@@ -19,7 +19,8 @@ To run Conky open up terminal `conky` OR via Application Launcher ![](Images/con
 
 ![](Images/Conky_pure.png)
 
-#### Oh, Conky looks so bad! No problem, we will customize it. We make it out of the box.
+#### Oh, Conky looks so bad!
+#### No problem, we will customize it. We make it out of the box.
 
 ## [Conky Customization](https://wiki.archlinux.org/title/conky)
 #### Here's [Conky Objects](http://conky.sourceforge.net/variables.html), we need it for Customization.
@@ -44,5 +45,18 @@ and here's configFile, you can change Variables as you like, you can change back
 
 - `font` to set the font you want
 
-read [conky configuration settings](http://conky.sourceforge.net/config_settings.html) to know Variables and changing them
+read [conky configuration settings](http://conky.sourceforge.net/config_settings.html) to know Variables and changing them.
+
+### [Conky Config Files](conkyConfigFiles/).
+this [conky.conf](conkyConfigFiles/conky.conf) is my config file that I'm using right now.
+
+### Creating New Desktop Entry for Customized Conky.
+to run conky with Customized config file `conky -c conky.conf` .
+let's create desktop entry
+
+
+
+
+
+
 
