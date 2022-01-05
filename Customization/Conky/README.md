@@ -17,7 +17,7 @@ To run Conky open up terminal `conky` OR via Application Launcher ![](Images/con
 
 ### and here's conky 
 
-![](Images/conky_pure.png)
+![](Images/Conky_pure.png)
 
 #### Oh, Conky looks so bad! No problem, we will customize it. We make it out of the box.
 
