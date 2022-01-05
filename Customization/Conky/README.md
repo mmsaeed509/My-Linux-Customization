@@ -28,7 +28,21 @@ and here's configFile, you can change Variables as you like, you can change back
 
 #### Variable.
 - `alignment` to determine position on screen (e.g on top or top right or top middle or bottom  eft).
-- 
+- `background` to set background.
+- `display` if you have a dual/multi setup monitor, you can Specify which display to connect to.
+    - to list monitors use this command `xrandr --query | grep '\bconnected\b'`
+    - I have a dual setup monitor, and here's my output
+     ```
+     eDP-1 connected primary 1920x1080+0+0 (normal left inverted right x axis y axis) 344mm x 193mm
+     HDMI-1-0 connected 1920x1080+1920+0 (normal left inverted right x axis y axis) 531mm x 299mm
+     ```
+     
+- Graph (show cpu/memory/gpu usage graph )
+  - `cpugraph` CPU usage graph.
+  - `gpugraph` GPU usage graph.
+  - `memgraph` Memory usage graph.
+
+- `font` to set the font you want
 
 read [conky configuration settings](http://conky.sourceforge.net/config_settings.html) to know Variables and changing them
 
