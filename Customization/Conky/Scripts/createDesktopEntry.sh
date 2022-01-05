@@ -7,7 +7,7 @@ mkdir ~/Public/conky/ && cd ~/Public/conky/
 touch conky.sh
 
 # give an executable permission
-sudo chmod +x conky.sh conktrun.py
+sudo chmod +x conky.sh
 
 # adding running script
 echo '#!/bin/bash
