@@ -63,10 +63,22 @@ let's create desktop entry run this simple script **(I wrote this script for you
 
 or create desktop entry via GUI from *** Menu Editor***
 
-![](GUI-desktop/conky_desktop_1.png)
+![gui](Images/GUI-desktop/conky_desktop_1.png)
 
-![](GUI-desktop/conky_desktop_2.png)
+#### naming desktop entry 
+![gui](Images/GUI-desktop/conky_desktop_2.png)
 
+#### execution command `cd ~/Public/conky && bash conky.sh`
+![gui](Images/GUI-desktop/conky_desktop_3.png)
+
+#### Icon
+![gui](https://github.com/mmsaeed509/My-Linux-Customization/blob/7304ed7ccb06e4929d742a16ec53060da1be840d/Customization/Conky/Images/GUI-desktop/conky_desktop_4png)
+
+#### search `conky`
+![gui](Images/GUI-desktop/conky_desktop_5.png)
+
+#### Save :smiley:
+![gui](Images/GUI-desktop/conky_desktop_6.png)
 
 #
  ## Run Conky on Startup
