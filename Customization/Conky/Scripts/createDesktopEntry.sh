@@ -15,7 +15,6 @@ echo '#!/bin/bash
 conky -c conky.conf'>conky.sh
 
 # creat new desktop entry
-cd /usr/share/applications/
 
 touch conkyRun.desktop
 
@@ -33,4 +32,4 @@ Type=Application
 X-KDE-SubstituteUID=false
 X-KDE-Username='>conkyRun.desktop
 
-
+mv conkyRun.desktop /usr/share/applications/
