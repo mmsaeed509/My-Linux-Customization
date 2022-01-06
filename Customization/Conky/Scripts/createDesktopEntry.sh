@@ -15,7 +15,7 @@ echo '#!/bin/bash
 conky -c conky.conf'>conky.sh
 
 # creat new desktop entry
-cd ~/.local/share/applications/
+cd /usr/share/applications/
 
 touch conkyRun.desktop
 
