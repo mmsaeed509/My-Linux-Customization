@@ -56,7 +56,8 @@ to run conky with Customized config file `conky -c conky.conf` .
 
 let's create desktop entry run this simple script with root permission [createDesktopEntry.sh](https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Conky/Scripts/createDesktopEntry.sh) to create new desktop entry.
 - download script.
-- Run script `sudo chmod +x createDesktopEntry.sh && sudo ./createDesktopEntry.sh`
+- download config file.
+- Run script `chmod +x createDesktopEntry.sh && ./createDesktopEntry.sh`
 
 or create desktop entry via GUI from *** Menu Editor***
 
