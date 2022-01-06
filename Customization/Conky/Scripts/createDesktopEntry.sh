@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # create conky directory then change directory to conky
-mkdir ~/Public/conky/ && cd ~/Public/conky/
+mkdir ~/Public/conky
+cd ~/Public/conky/
 
 # create script to run conky
 touch conky.sh
