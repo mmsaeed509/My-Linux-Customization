@@ -80,7 +80,17 @@ or create desktop entry via GUI from *** Menu Editor***
 
 #
  ## Run Conky on Startup
+ run this [script](https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Conky/Scripts/conkyStartup.sh) `./conkyStartup.sh`
 
+or create desktop entry via GUI from *** System Setting***
+
+![](Images/GUI-starup/startup_1.png)
+
+
+![](Images/GUI-starup/startup_2.png)
+
+
+![](Images/GUI-starup/startup_3.png)
 
 
 
