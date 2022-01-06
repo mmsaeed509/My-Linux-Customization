@@ -32,4 +32,4 @@ Type=Application
 X-KDE-SubstituteUID=false
 X-KDE-Username='>conkyRun.desktop
 
-mv conkyRun.desktop /usr/share/applications/
+sudo mv conkyRun.desktop /usr/share/applications/
