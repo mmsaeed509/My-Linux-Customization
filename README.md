@@ -16,7 +16,7 @@
 - [conky Customization](https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Conky/README.md).
 - [Terminal Customization](https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Customization/Terminal/README.md).
 - If you encounter an issue, create a new issue so I can help you.
-- 
+- this [Issues](issues/) for you, here I give solutions for Issues that I had been faced in GNU/Linux distros to help you (My experiences in Linux).
 
 [Desktop Screenshoot](https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Images/README.md)
 <br/>
