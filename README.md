@@ -22,7 +22,7 @@
 [Desktop Screenshoot](https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Images/README.md)
 <br/>
 
-![](/Images/mainDesktop.png)
+![](/Images/main.png)
 
 ![desktop](/Images/desktop.png)
 <br/>
