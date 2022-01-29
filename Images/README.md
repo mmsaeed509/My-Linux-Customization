@@ -1,6 +1,6 @@
 # Desktop Screenshot
 
-![](mainDesktop.png)
+![](main.png)
 
 ![](desktop.png)
 
