@@ -2,7 +2,7 @@
 
 ## Table Of Content
 - [blur screen on VBox](#get-a-blur-screen-when-switching-to-full-screen-mode).
-- [the virtualbox linux kernel driver is either not loaded or not set up correctly](#kernel-issue)
+- [the virtualbox linux kernel driver is either not loaded or not set up correctly](#kernel-issue).
 
 #### get a blur screen when switching to full screen mode 
 
@@ -24,4 +24,15 @@ here's the solution system setting > window management > KWin Scripts > Force Bl
 
 #### kernel issue 
 
-![]()
+![](v-box/kernel-vbox.png)
+
+> :warning: **make sure you install the right kernel modules**
+> `virtualbox-host-dkms` or `virtualbox-host-modules-arch` [read](https://wiki.archlinux.org/title/VirtualBox#Installation_steps_for_Arch_Linux_hosts)
+
+in my case `virtualbox-host-dkms` is the right kernel modules
+
+open up the terminal execute this command 
+```bash 
+sudo vboxreload
+```
+ 
