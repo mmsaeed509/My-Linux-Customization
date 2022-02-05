@@ -26,9 +26,9 @@
 
 ![](/Images/Xmonad.png)
 
-![](/Images/Xmonad_2.png)
-
 ![](/Images/Xmonad_3.png)
+
+![](/Images/Xmonad_7.png)
 
 ![](/Images/main.png)
 
