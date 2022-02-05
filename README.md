@@ -30,6 +30,8 @@
 
 ![](/Images/Xmonad_7.png)
 
+![](/Images/Xmonad_2.png)
+
 ![](/Images/main.png)
 
 ![desktop](/Images/desktop.png)
