@@ -22,6 +22,14 @@
 [Desktop Screenshoot](https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Images/README.md)
 <br/>
 
+#### My New Setup With [Xmonad](https://xmonad.org/) Window Manager With [Awesome Customization](https://github.com/Axarva/dotfiles-2.0)
+
+![](/Images/Xmonad.png)
+
+![](/Images/Xmonad_2.png)
+
+![](/Images/Xmonad_3.png)
+
 ![](/Images/main.png)
 
 ![desktop](/Images/desktop.png)
