@@ -1,5 +1,21 @@
 # Desktop Screenshot
 
+#### My New Setup With [Xmonad](https://xmonad.org/) Window Manager With [Awesome Customization](https://github.com/Axarva/dotfiles-2.0)
+
+![](Xmonad.png)
+
+![](Xmonad_2.png)
+
+![](Xmonad_7.png)
+
+![](Xmonad_3.png)
+
+![](Xmonad_4.png)
+
+![](Xmonad_5.png)
+
+![](Xmonad_6.png)
+
 ![](main.png)
 
 ![](desktop.png)
