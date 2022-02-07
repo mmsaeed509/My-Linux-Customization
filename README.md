@@ -24,7 +24,9 @@
 
 #### My New Setup With [Xmonad](https://xmonad.org/) Window Manager With [Awesome Customization](https://github.com/Axarva/dotfiles-2.0)
 
-![](/Images/Xmonad.png)
+![](/Images/Xmonad.webp)
+
+![](/Images/Xmonad-Final.png)
 
 ![](/Images/Xmonad_3.png)
 
