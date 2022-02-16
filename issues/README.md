@@ -36,6 +36,8 @@ open up the terminal execute this command
 ```bash 
 sudo vboxreload
 ```
+#
+
  #### PGP key error
  
  When you update your system or install a tool, you may encounter this problem
