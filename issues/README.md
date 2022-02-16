@@ -3,6 +3,7 @@
 ## Table Of Content
 - [blur screen on VBox](#get-a-blur-screen-when-switching-to-full-screen-mode).
 - [the virtualbox linux kernel driver is either not loaded or not set up correctly](#kernel-issue).
+- [PGP key error](#pgp-key-error)
 
 #### get a blur screen when switching to full screen mode 
 
@@ -35,4 +36,27 @@ open up the terminal execute this command
 ```bash 
 sudo vboxreload
 ```
+ #### PGP key error
  
+ When you update your system or install a tool, you may encounter this problem
+ 
+ ```bash
+ 
+ error: archlinux-keyring: key "0429897DE5F3BDAC537A30696D42BDD116E0068F" is unknown
+:: Import PGP key 0429897DE5F3BDAC537A30696D42BDD116E0068F? [Y/n] 
+error: key "0429897DE5F3BDAC537A30696D42BDD116E0068F" could not be looked up remotely
+:: File /var/cache/pacman/pkg/archlinux-keyring-20200820-1-any.pkg.tar.zst is corrupted (invalid or corrupted package (PGP signature)).
+Do you want to delete it? [Y/n] n
+error: failed to commit transaction (invalid or corrupted package (PGP signature))
+Errors occurred, no packages were upgraded.
+
+```
+
+and here is the solution
+
+open up terminal 
+
+```bash
+sudo pacman -Sy archlinux-keyring chaotic-keyring
+
+```
