@@ -21,7 +21,7 @@ here's the solution system setting > window management > KWin Scripts > Force Bl
 
 ![](v-box/5.png)
 
-#
+---
 
 #### kernel issue 
 
@@ -36,7 +36,7 @@ open up the terminal execute this command
 ```bash 
 sudo vboxreload
 ```
-#
+---
 
  #### PGP key error
  
