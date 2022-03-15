@@ -3,14 +3,16 @@
 # create a SystemD service file for conky
 touch conky.service
 
-echo '[Unit]
+cat > ~/conky.service << "EOF"
+[Unit]
 Description=conky
 
 [Service]
 ExecStart=~/Public/conky/conky.sh
 
 [Install]
-WantedBy=multi-user.target'>conky.service
+WantedBy=multi-user.target
+EOF
 
 sudo mv conky.service /lib/systemd/system/
 
