@@ -1,4 +1,11 @@
-# Desktop Screenshot
+<h2 align="center"> New </h3>
+
+![](My-Linux-Setup.gif)
+
+![](LinuxDesktop.gif)
+
+
+<h2 align="center"> Old </h3>
 
 #### My New Setup With [Xmonad](https://xmonad.org/) Window Manager With [Awesome Customization](https://github.com/Axarva/dotfiles-2.0)
 
