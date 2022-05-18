@@ -2,41 +2,20 @@
 
 ![](GIFs/ALLTHEMES.gif)
 
-### Blade
 
-![](GIFs/Blade.gif)
+### Previews
 
-### CyberPunk
+|Blade|CyberPunk|Hack|
+|--|--|--|
+| ![](GIFs/Blade.gif) | ![](GIFs/CyberPunk.gif) | ![](GIFs/Hack.gif) |
 
-![](GIFs/CyberPunk.gif)
+|Rick|Hack The Box|Hack The Box Colored|
+|--|--|--|
+| ![](GIFs/Rick.gif) | ![](GIFs/HackTheBox.gif) | ![](GIFs/HackTheBoxColored.gif) |
 
-### Hack
-
-![](GIFs/Hack.gif)
-
-### Rick
-
-![](GIFs/Rick.gif)
-
-### Hack The Box
-
-![](GIFs/HackTheBox.gif)
-
-### Hack The Box Colored
-
-![](GIFs/HackTheBoxColored.gif)
-
-### BlackArch
-
-![](GIFs/BlackArch.gif)
-
-### Neon
-
-![](GIFs/Neon.gif)
-
-### Tigger In Atlantis
-
-![](GIFs/TiggerInAtlantis.gif)
+|BlackArch|Neon|Tigger In Atlantis|
+|--|--|--|
+| ![](GIFs/BlackArch.gif) | ![](GIFs/Neon.gif) | ![](GIFs/TiggerInAtlantis.gif) |
 
 <!--  -->
 <!--  -->
