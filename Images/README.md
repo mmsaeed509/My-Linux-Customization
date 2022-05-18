@@ -1,9 +1,45 @@
 <h2 align="center"> New </h3>
 
-![](My-Linux-Setup.gif)
+![](GIFs/ALLTHEMES.gif)
 
-![](LinuxDesktop.gif)
+### Blade
 
+![](GIFs/Blade.gif)
+
+### CyberPunk
+
+![](GIFs/CyberPunk.gif)
+
+### Hack
+
+![](GIFs/Hack.gif)
+
+### Rick
+
+![](GIFs/Rick.gif)
+
+### Hack The Box
+
+![](GIFs/HackTheBox.gif)
+
+### Hack The Box Colored
+
+![](GIFs/HackTheBoxColored.gif)
+
+### BlackArch
+
+![](GIFs/BlackArch.gif)
+
+### Neon
+
+![](GIFs/Neon.gif)
+
+### Tigger In Atlantis
+
+![](GIFs/TiggerInAtlantis.gif)
+
+<!--  -->
+<!--  -->
 
 <h2 align="center"> Old </h3>
 
