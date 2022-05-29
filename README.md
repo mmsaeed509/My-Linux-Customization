@@ -1,6 +1,8 @@
 # My Linux-distro Customization
+<!-- # [dotfiles](https://github.com/mmsaeed509/bspwm-dots) -->
 
-## Make Your distro Out of the Box!
+## Make Your distro Out of the Bo
+x!
 
 [![Linux](https://img.shields.io/badge/OS-Garuda%20Linux-05122A?style=plastic&logo=Linux&logoColor=blueviolet&color=blueviolet)](https://garudalinux.org/)
 ![Stars](https://img.shields.io/github/stars/mmsaeed509/My-Linux-Customization?color=blueviolet)
@@ -39,6 +41,7 @@
 ![desktop](/Images/desktop.png)
 <br/>
 <br/>
-
+<!-- 
 ## My Linux-distro is *Garuda Linux*  <a href="https://garudalinux.org/"><img width=30 hight=30 src="https://github.com/mmsaeed509/My-Linux-Customization/blob/main/Images/garuda-red.png"></a> Download Garuda!, It's an Awesome Distro.
-![](https://github.com/mmsaeed509/My-Linux-Customization/blob/bfe1aeec2aee8dc8fcd3c17230557e2ad1dff7c6/Videos/desktop.webp)
+![](https://github.com/mmsaeed509/My-Linux-Customization/blob/bfe1aeec2aee8dc8fcd3c17230557e2ad1dff7c6/Videos/desktop.webp) 
+-->
