@@ -1,8 +1,7 @@
 # My Linux-distro Customization
-<!-- # [dotfiles](https://github.com/mmsaeed509/bspwm-dots) -->
+# [dotfiles](https://github.com/mmsaeed509/bspwm-dots)
 
 ## Make Your distro Out of the Bo
-x!
 
 [![Linux](https://img.shields.io/badge/OS-Garuda%20Linux-05122A?style=plastic&logo=Linux&logoColor=blueviolet&color=blueviolet)](https://garudalinux.org/)
 ![Stars](https://img.shields.io/github/stars/mmsaeed509/My-Linux-Customization?color=blueviolet)
