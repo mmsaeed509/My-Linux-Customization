@@ -1,5 +1,11 @@
 # My Linux-distro Customization
-# [dotfiles](https://github.com/mmsaeed509/bspwm-dots)
+
+# look at the new dotfiles  [here](https://github.com/mmsaeed509/bspwm-dots)
+
+![Screenshot_2022-07-12-03-13-03_3840x1080](https://user-images.githubusercontent.com/62524855/178386871-20bcc2cb-3d64-4cc7-a58c-01c85564e30a.png)
+
+![Screenshot_2022-07-09-22-59-31_3840x1080](https://user-images.githubusercontent.com/62524855/178386886-e4925bc2-0af6-42c8-8b70-5b20fa55a4e0.png)
+
 
 ## Make Your distro Out of the Bo
 
